@@ -1,0 +1,9 @@
+#confetti {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100; /* Ensure it's above other elements */
+    pointer-events: none; /* So it doesn't interfere with the popup button click */
+}
