@@ -27,7 +27,6 @@ Das Spiel kann getestet werden auf <a href="https://memory.gerald-hasani.com" ta
 
 
 
-<img src="https://github.com/user-attachments/assets/7b0d261d-2188-4ab4-9fc6-bfff956d1476" width="800" height="auto">
+<img src="https://github.com/user-attachments/assets/b5280a80-7433-47d3-a593-81da51846ac2" width="800" height="auto">
 
-<img src="https://github.com/user-attachments/assets/73e2fa6f-63bd-42d6-86b8-4ffc69e4a473" width="800" height="auto">
-
+<img src="https://github.com/user-attachments/assets/4b6b4617-d133-4ade-aa82-53fcf2e7bc13" width="800" height="auto">
