@@ -21,6 +21,12 @@ Die Verwendung der Bilder in diesem Projekt wird als Fair Use betrachtet, da sie
 Der Autor dieses Projekts übernimmt keine Verantwortung für die Nutzung der enthaltenen Bilder. Nutzer sind selbst dafür verantwortlich, sicherzustellen, dass ihre Verwendung der Bilder rechtlich zulässig ist.
 
 
+## Testen
+
+Das Spiel kann getestet werden auf <a href="https://memory.gerald-hasani.com" target="_blank">LINK</a>.
+
+
+
 <img src="https://github.com/user-attachments/assets/7b0d261d-2188-4ab4-9fc6-bfff956d1476" width="800" height="auto">
 
 <img src="https://github.com/user-attachments/assets/73e2fa6f-63bd-42d6-86b8-4ffc69e4a473" width="800" height="auto">
