@@ -1,29 +1,29 @@
-# Memory Spiel Projekt
+# Memory Game Project
 
-## Projektbeschreibung
+## Project Description
 
-Dies ist ein schulisches Projekt, bei dem wir ein Memory-Spiel mithilfe von HTML, CSS und JavaScript programmieren. Das Ziel dieses Projekts ist es, unsere Programmierfähigkeiten zu verbessern und ein grundlegendes Verständnis für Webentwicklung zu erlangen.
+This is a school project where we will be programming a memory game using HTML, CSS, and JavaScript. The goal of this project is to improve our programming skills and gain a basic understanding of web development.
 
-## Lizenz
+## License
 
-Der HTML-, CSS- und JavaScript-Code dieses Projekts steht unter der MIT-Lizenz. Siehe die Datei `LICENSE` für weitere Informationen.
+The HTML, CSS, and JavaScript code for this project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-## Verwendung von Fan-Art
+## Use of Fan Art
 
-Dieses Projekt enthält Bilder, die durch eine KI erstellt wurden und Charaktere von Nintendo darstellen. Diese Bilder sind urheberrechtlich geschütztes Material von Nintendo und sind nicht unter der MIT-Lizenz lizenziert. Ihre Verwendung fällt möglicherweise unter die Fair-Use-Doktrin, aber das bedeutet nicht, dass sie frei von rechtlichen Risiken ist.
+This project includes images created by AI that depict characters from Nintendo. These images are copyrighted material owned by Nintendo and are not licensed under the MIT License. Their use may fall under the Fair Use doctrine, but this does not mean they are free from legal risks.
 
 ### Fair Use
 
-Die Verwendung der Bilder in diesem Projekt wird als Fair Use betrachtet, da sie für nicht-kommerzielle, pädagogische und transformative Zwecke verwendet werden. Dennoch behält sich Nintendo alle Rechte an diesen Charakteren vor. Wenn du dieses Projekt verwendest oder weiterverbreitest, sei dir bewusst, dass dies auf eigenes Risiko geschieht und rechtliche Schritte von Nintendo möglich sind.
+The use of the images in this project is considered Fair Use as they are used for non-commercial, educational, and transformative purposes. Nevertheless, Nintendo retains all rights to these characters. If you use or distribute this project, be aware that it is at your own risk and legal actions by Nintendo are possible.
 
-## Haftungsausschluss
+## Disclaimer
 
-Der Autor dieses Projekts übernimmt keine Verantwortung für die Nutzung der enthaltenen Bilder. Nutzer sind selbst dafür verantwortlich, sicherzustellen, dass ihre Verwendung der Bilder rechtlich zulässig ist.
+The author of this project assumes no responsibility for the use of the included images. Users are responsible for ensuring that their use of the images is legally permissible.
 
+## Testing
 
-## Testen
-
-Das Spiel kann getestet werden auf <a href="https://memory.gerald-hasani.com" target="_blank">LINK</a>.
+The game can be tested at
+ <a href="https://memory.gerald-hasani.com" target="_blank">LINK</a>.
 
 
 
